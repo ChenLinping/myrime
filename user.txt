@@ -1,0 +1,11 @@
+# Rime table
+#@/db_name	user
+#@/db_type	tabledb
+#@/rime_version	1.7.3
+#@/tick	20
+昔	ajf	4
+暗	ju	1
+昱	juf	2
+杰	so	3
+今	wynb	4
+暗杰	encjuso	1

@@ -2,17 +2,19 @@ __build_info:
   rime_version: 1.7.3
   timestamps:
     default: 1613228859
-    default.custom: 1640744550
+    default.custom: 1640744584
     key_bindings: 1613228859
     key_bindings.custom: 0
     punctuation: 1613228859
     punctuation.custom: 0
     wubi86_jidian_pinyin.custom: 0
-    wubi86_jidian_pinyin.schema: 1637944645
+    wubi86_jidian_pinyin.schema: 1640775208
 abc_segmentor:
   extra_tags:
     - reverse_lookup
 engine:
+  filters:
+    - "simplifier@tradition"
   processors:
     - ascii_composer
     - recognizer
@@ -32,6 +34,7 @@ engine:
     - punct_translator
     - reverse_lookup_translator
     - table_translator
+    - "lua_translator@date_translator"
 key_binder:
   bindings:
     - {accept: semicolon, send: 2, when: has_menu}
@@ -148,6 +151,9 @@ schema:
   name: "拼音混输"
   schema_id: wubi86_jidian_pinyin
   version: 0.9
+speller:
+  auto_select: false
+  max_code_length: 10
 switches:
   - name: full_shape
     states: ["半角", "全角"]
@@ -156,15 +162,10 @@ switches:
   - name: ascii_punct
     states: ["。，", "．，"]
 translator:
-  db_class: tabledb
   dictionary: wubi86_jidian
-  disable_user_dict_for_patterns:
-    - "^z.*$"
   enable_charset_filter: true
   enable_completion: true
   enable_encoder: true
   enable_sentence: false
-  enable_user_dict: false
-  encode_commit_history: false
-  max_phrase_length: 10
-  user_dict: user
+  enable_user_dict: true
+  encode_commit_history: true
