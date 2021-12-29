@@ -1,0 +1,64 @@
+patch:
+  preset_color_schemes:
+    calm:
+      hilited_candidate_label_color: 8947848
+      border_height: 5
+      label_font_point: 18
+      comment_text_color: 5948513
+      border_width: 10
+      corner_radius: 5
+      hilited_candidate_text_color: 0
+      hilited_comment_text_color: 15834168
+      back_color: 15724532
+      horizontal: true
+      candidate_text_color: 8947848
+      name: 安静
+      hilited_candidate_back_color: 16777215
+      hilited_back_color: 15724532
+      font_point: 20
+      line_spacing: 5
+      spacing: 5
+      hilited_text_color: 9342611
+      label_color: 9342611
+      candidate_format: '%c %@ '
+      border_color: 9342611
+      inline_preedit: true
+    roseo_maple:
+      hilited_candidate_label_color: 2286883322
+      border_height: 5
+      comment_text_color: 5948513
+      comment_font_face: PingFang SC
+      inline_preedit: true
+      border_width: 0
+      hilited_corner_radius: 5
+      corner_radius: 5
+      hilited_candidate_text_color: 5181946
+      base_offset: 0
+      hilited_comment_text_color: 15834168
+      back_color: 16053494
+      horizontal: true
+      comment_font_point: 16
+      preedit_back_color: 3556722
+      name: 玫枫 / Roseo Maple
+      candidate_text_color: 2236962
+      hilited_candidate_back_color: 15592953
+      alpha: 1
+      hilited_back_color: 15724532
+      font_point: 18
+      line_spacing: 5
+      spacing: 5
+      hilited_text_color: 9342611
+      label_color: 11184810
+      candidate_format: '%c %@ '
+      author: KyleBing <https://kylebing.cn>
+      border_color: 16777215
+
+  style:
+    color_scheme: google
+    horizontal: true
+
+  app_options:
+    com.termius-dmg.mac:
+      ascii_mode: true
+
+  us_keyboard_layout: false

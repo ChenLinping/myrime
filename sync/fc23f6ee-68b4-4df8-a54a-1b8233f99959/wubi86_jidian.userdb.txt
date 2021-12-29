@@ -1,0 +1,942 @@
+# Rime user dictionary
+#@/db_name	wubi86_jidian
+#@/db_type	userdb
+#@/rime_version	1.7.3
+#@/tick	267
+#@/user_id	fc23f6ee-68b4-4df8-a54a-1b8233f99959
+aahw 	工具	c=2 d=1.95123 t=383
+aauj 	工单	c=1 d=1 t=135
+addb 	基础	c=7 d=4.1638 t=302
+adgf 	基于	c=2 d=1.75201 t=316
+adwb 	其他	c=1 d=1 t=136
+ajt 	蓝	c=1 d=1 t=105
+b 	了	c=9 d=6.11458 t=245
+bdtt 	随笔	c=2 d=1.99501 t=187
+bm 	出	c=1 d=1 t=150
+bn 	也	c=3 d=2.40939 t=139
+bsjf 	阿里	c=1 d=1 t=14
+bsk 	阿	c=1 d=1 t=11
+bwt 	除	c=1 d=1 t=113
+c 	以	c=1 d=1 t=227
+celt 	能力	c=11 d=7.43766 t=387
+cyi 	叉	c=1 d=1 t=132
+d 	在	c=2 d=1.78663 t=255
+dd 	大	c=3 d=2.47715 t=339
+dgip 	感觉	c=1 d=1 t=147
+dhpg 	丰富	c=1 d=1 t=304
+dn 	成	c=1 d=1 t=61
+dqe 	确	c=1 d=1 t=263
+dqyw 	确认	c=1 d=1 t=123
+dtbu 	故障	c=4 d=2.64598 t=332
+dx 	龙	c=1 d=1 t=125
+e 	有	c=6 d=3.84131 t=229
+et 	用	c=1 d=1 t=239
+fb 	地	c=1 d=1 t=357
+fcdy 	动态	c=1 d=1 t=295
+fcu 	云	c=6 d=2.6225 t=235
+fdsv 	需要	c=1 d=1 t=243
+feat 	赤脚医生	c=4 d=3.97017 t=253
+fhgo 	起来	c=1 d=1 t=166
+fjhh 	坤	c=1 d=1 t=106
+fjrp 	云监控	c=7 d=4.49594 t=233
+fnjy 	场景	c=1 d=1 t=281
+fp 	过	c=1 d=1 t=129
+fpfc 	过去	c=1 d=1 t=342
+fpgo 	过来	c=2 d=1.94649 t=141
+fpih 	过滤	c=1 d=1 t=350
+fqng 	无情	c=1 d=1 t=82
+ftjb 	都	c=1 d=1 t=142
+fuxk 	增强	c=1 d=1 t=244
+fwsa 	规模	c=2 d=1.85214 t=340
+g 	一	c=8 d=3.49927 t=374
+ga 	开	c=2 d=1.33622 t=378
+gace 	开通	c=1 d=1 t=67
+ge 	表	c=1 d=1 t=287
+gh 	下	c=6 d=4.03202 t=218
+ghd 	正	c=1 d=1 t=254
+gkgj 	整理	c=2 d=1.54607 t=256
+gkwr 	事件	c=2 d=1.98511 t=351
+gmdh 	现在	c=1 d=1 t=161
+gmf 	再	c=1 d=1 t=42
+gmww 	两	c=1 d=1 t=137
+h 	上	c=3 d=1.8238 t=243
+hcef 	皮肤	c=1 d=1 t=73
+hge 	睛	c=1 d=1 t=104
+hhue 	目前	c=1 d=1 t=111
+hhvi 	目录	c=1 d=1 t=318
+hj 	旧	c=1 d=1 t=128
+hve 	眼	c=1 d=1 t=103
+hvhg 	眼睛	c=1 d=1 t=106
+i 	不	c=6 d=4.23841 t=231
+iiwu 	水位	c=1 d=1 t=284
+im 	没	c=1 d=1 t=139
+imj 	测	c=1 d=1 t=367
+imya 	测试	c=1 d=1 t=221
+ipk 	党	c=1 d=1 t=105
+ipkq 	党	c=1 d=1 t=137
+iuc 	滚	c=1 d=1 t=114
+iytk 	流程	c=1 d=1 t=299
+j 	是	c=16 d=7.39516 t=263
+jbrp 	最近	c=1 d=1 t=242
+jfd 	里	c=1 d=1 t=12
+jfuj 	时间	c=1 d=1 t=345
+jfwh 	时候	c=1 d=1 t=238
+jjfn 	日志	c=1 d=1 t=359
+jtpr 	监牢	c=1 d=1 t=241
+jtrp 	监控	c=12 d=7.22183 t=258
+juf 	昱	c=5 d=4.21153 t=103
+juso 	昱杰	c=2 d=1.77991 t=115
+k 	中	c=3 d=1.66263 t=324
+kgd 	吴	c=2 d=1.99501 t=124
+khd 	跨	c=1 d=1 t=254
+kktc 	口径	c=1 d=1 t=127
+kw 	只	c=1 d=1 t=214
+lfn 	转	c=2 d=1.94176 t=140
+lfyw 	默认	c=2 d=1.53526 t=232
+lk 	加	c=2 d=1.93707 t=71
+lkd 	回	c=1 d=1 t=113
+lqlk 	逻辑	c=1 d=1 t=69
+lt 	力	c=2 d=1.98511 t=195
+mqq 	网	c=1 d=1 t=157
+mtkg 	账号	c=1 d=1 t=255
+mw 	内	c=1 d=1 t=156
+mwpw 	内容	c=1 d=1 t=349
+nafi 	展示	c=1 d=1 t=108
+ndtj 	恢复	c=2 d=1.42741 t=333
+nfbm 	导出	c=1 d=1 t=337
+nfc 	层	c=1 d=1 t=275
+nguk 	情况	c=1 d=1 t=213
+njl 	慢	c=2 d=1.99501 t=209
+nnnn 	已	c=1 d=1 t=330
+nnxc 	已经	c=1 d=1 t=112
+ntg 	性	c=9 d=4.62012 t=388
+nxx 	屁	c=1 d=1 t=140
+nytd 	心智	c=1 d=1 t=203
+o 	为	c=1 d=1 t=119
+ogtl 	业务	c=2 d=1.68386 t=354
+ouya 	粒度	c=1 d=1 t=312
+ovrn 	数据	c=8 d=4.15944 t=335
+p 	这	c=3 d=2.33711 t=211
+pfxx 	完毕	c=1 d=1 t=326
+ptrn 	客气	c=1 d=1 t=260
+ptyn 	客户	c=1 d=1 t=174
+pujf 	实时	c=3 d=1.89812 t=338
+puyj 	补课	c=3 d=2.77077 t=97
+puyj 	补齐	c=1 d=1 t=95
+pvuf 	安装	c=1 d=1 t=121
+pwkk 	窗口	c=1 d=1 t=130
+q 	我	c=3 d=2.86814 t=266
+qdo 	然	c=1 d=1 t=143
+qh 	外	c=1 d=1 t=114
+qnrt 	包括	c=1 d=1 t=228
+qq 	多	c=2 d=1.99501 t=247
+r 	的	c=23 d=10.2695 t=267
+rbaq 	报警	c=4 d=3.24143 t=361
+rbge 	报表	c=1 d=1 t=286
+rcn 	把	c=1 d=1 t=65
+rcqn 	反馈	c=1 d=1 t=175
+rdgy 	排班	c=1 d=1 t=334
+resc 	授权	c=1 d=1 t=128
+rfjg 	质量	c=1 d=1 t=41
+rhf 	看	c=2 d=1.54335 t=165
+rhj 	掉	c=1 d=1 t=133
+rjaa 	揽工	c=1 d=1 t=137
+rjta 	提升	c=4 d=3.46711 t=84
+rjwa 	提供	c=1 d=1 t=140
+rn 	所	c=2 d=1.96561 t=116
+rnim 	拨测	c=3 d=2.92654 t=382
+rnt 	拨	c=1 d=1 t=366
+rpw 	控	c=2 d=1.99501 t=236
+rs 	打	c=1 d=1 t=158
+rurt 	接手	c=1 d=1 t=321
+ruty 	接入	c=2 d=1.5975 t=336
+rwmt 	失败	c=1 d=1 t=122
+rxsf 	指标	c=5 d=2.27052 t=294
+s 	要	c=4 d=2.70631 t=239
+sc 	权	c=1 d=1 t=251
+sg 	本	c=1 d=1 t=356
+sgt 	栈	c=1 d=1 t=371
+sj 	查	c=1 d=1 t=116
+sk 	可	c=2 d=1.99501 t=226
+smu 	贾	c=1 d=1 t=60
+so 	杰	c=4 d=3.22763 t=104
+src 	板	c=1 d=1 t=54
+stug 	覆盖	c=1 d=1 t=282
+swim 	检测	c=1 d=1 t=184
+syny 	核心	c=1 d=1 t=190
+t 	和	c=1 d=1 t=391
+taxe 	升级	c=2 d=1.9802 t=331
+tdce 	智能	c=1 d=1 t=288
+tdg 	短	c=2 d=1.99005 t=53
+tdsr 	短板	c=2 d=1.99005 t=96
+tdut 	知道	c=2 d=1.80654 t=224
+tfrw 	丢失	c=1 d=1 t=210
+tgpy 	重视	c=1 d=1 t=145
+thgc 	版	c=1 d=1 t=129
+thgj 	处理	c=3 d=2.87255 t=325
+thsg 	版本	c=1 d=1 t=121
+thtc 	怎么	c=2 d=1.8311 t=220
+tit 	秒	c=2 d=1.16948 t=389
+tj 	得	c=1 d=1 t=120
+tkh 	种	c=1 d=1 t=212
+tkk 	稆	c=1 d=1 t=89
+tpgj 	管理	c=3 d=2.48171 t=314
+tsh 	箱	c=1 d=1 t=379
+tve 	很	c=1 d=1 t=246
+u 	产	c=1 d=1 t=88
+ua 	并	c=1 d=1 t=37
+uawf 	阈值	c=1 d=1 t=296
+uhhk 	站点	c=4 d=3.12822 t=257
+ukd 	问	c=1 d=1 t=217
+ukjg 	问题	c=1 d=1 t=151
+ukqv 	竞争	c=1 d=1 t=194
+ukwv 	部分	c=1 d=1 t=191
+ukxf 	总结	c=1 d=1 t=347
+uqid 	资源	c=4 d=3.55647 t=317
+uqt 	效	c=1 d=1 t=23
+uqw 	次	c=1 d=1 t=375
+usr 	新	c=1 d=1 t=120
+utem 	颜	c=1 d=1 t=75
+utkk 	产品	c=7 d=3.28047 t=236
+uwtl 	准备	c=1 d=1 t=247
+v 	发	c=1 d=1 t=145
+vb 	好	c=2 d=1.67032 t=258
+vbkc 	好吧	c=1 d=1 t=261
+vbwq 	好像	c=2 d=1.96079 t=162
+vcet 	即用	c=1 d=1 t=380
+vkjs 	如果	c=4 d=2.14631 t=262
+wbwu 	他们	c=1 d=1 t=219
+wdm 	段	c=1 d=1 t=344
+wdwx 	优化	c=2 d=1.89583 t=38
+wf 	会	c=2 d=1.66365 t=144
+wfdd 	伟大	c=1 d=1 t=135
+wftc 	什么	c=3 d=2.37994 t=237
+wg 	全	c=3 d=1.82123 t=370
+wggf 	便于	c=1 d=1 t=364
+wggf 	全球	c=1 d=1 t=365
+wgj 	便	c=1 d=1 t=204
+wh 	个	c=6 d=4.86158 t=173
+whog 	企业	c=2 d=1.99501 t=248
+wjg 	但	c=1 d=1 t=205
+wq 	你	c=2 d=1.96561 t=138
+wqj 	像	c=1 d=1 t=148
+wscw 	体验	c=3 d=2.79659 t=92
+wu 	们	c=1 d=1 t=241
+wug 	位	c=1 d=1 t=99
+wv 	分	c=1 d=1 t=250
+wvxe 	分组	c=3 d=2.1284 t=230
+wx 	化	c=1 d=1 t=289
+wylf 	集团	c=1 d=1 t=169
+wyth 	信息	c=1 d=1 t=144
+xa 	红	c=1 d=1 t=102
+xe 	级	c=4 d=2.70429 t=249
+xeg 	组	c=2 d=1.99501 t=262
+xexk 	组织	c=1 d=1 t=121
+xg 	线	c=1 d=1 t=244
+xl 	细	c=1 d=1 t=311
+xw 	给	c=1 d=1 t=131
+xyyf 	统计	c=1 d=1 t=285
+ya 	度	c=1 d=1 t=305
+yi 	就	c=2 d=1.63445 t=223
+yiet 	应用	c=2 d=1.79852 t=274
+yiyy 	应该	c=1 d=1 t=167
+ylk 	库	c=2 d=1.98511 t=29
+yuxl 	详细	c=1 d=1 t=143
+encadcl 	基础能力	c=0 d=0.1 t=271
+encadnr 	基础性包括	c=0 d=0.1 t=228
+encadnt 	基础性	c=0 d=0.1 t=227
+encador 	基础数据	c=0 d=0.1 t=303
+encadu 	基础产	c=0 d=0.1 t=88
+encaduk 	基础产品	c=0 d=0.1 t=48
+encadut 	基础产	c=0 d=0.1 t=88
+encadut 	基础产稆	c=0 d=0.1 t=89
+encagui 	基于资源	c=0 d=0.1 t=260
+encagux 	基于资源组	c=0 d=0.1 t=261
+encahhg 	蓝眼睛	c=0 d=0.1 t=106
+encawgi 	其他两个没	c=0 d=0.1 t=139
+encawgm 	其他两	c=0 d=0.1 t=137
+encawgw 	其他两个	c=0 d=0.1 t=138
+encbjfc 	阿里云	c=0 d=0.1 t=15
+encbjfj 	阿里云阿里	c=0 d=0.1 t=14
+encblh 	也加上	c=0 d=0.1 t=72
+encblhh 	也加上	c=0 d=0.1 t=72
+encbnlk 	也加	c=0 d=0.1 t=71
+encbnnx 	也屁	c=0 d=0.1 t=140
+encbntv 	了很	c=0 d=0.1 t=246
+encbsjf 	阿里	c=0 d=0.1 t=12
+encbtqo 	了很多企业	c=0 d=0.1 t=248
+encbtqq 	了很多	c=0 d=0.1 t=247
+encbtv 	了很	c=0 d=0.1 t=246
+encbujb 	出问题了	c=0 d=0.1 t=152
+encbujg 	出问题	c=0 d=0.1 t=151
+encbwdd 	了伟大	c=0 d=0.1 t=135
+encbwdi 	了伟大的党	c=0 d=0.1 t=137
+encbwdr 	了伟大的	c=0 d=0.1 t=136
+encclr 	能力的	c=0 d=0.1 t=369
+encclrq 	能力的	c=0 d=0.1 t=369
+encclrs 	能力的全栈	c=0 d=0.1 t=371
+encclrw 	能力的全	c=0 d=0.1 t=370
+enccrb 	叉掉了	c=0 d=0.1 t=134
+enccrbn 	叉掉了	c=0 d=0.1 t=134
+enccyrh 	叉掉	c=0 d=0.1 t=133
+encdbit 	故障流程	c=0 d=0.1 t=299
+encdbnt 	故障恢复	c=0 d=0.1 t=333
+encdbr 	故障的	c=0 d=0.1 t=126
+encdbrq 	故障的	c=0 d=0.1 t=126
+encdbrt 	故障的口径	c=0 d=0.1 t=127
+encdbwd 	有了伟大	c=0 d=0.1 t=135
+encdbwr 	有了伟大的	c=0 d=0.1 t=136
+encddbu 	有故障	c=0 d=0.1 t=171
+encdeb 	有了	c=0 d=0.1 t=134
+encdebn 	有了	c=0 d=0.1 t=134
+encder 	有的	c=0 d=0.1 t=230
+encderq 	有的	c=0 d=0.1 t=230
+encdeuq 	有效	c=0 d=0.1 t=23
+encdfsa 	大规模	c=0 d=0.1 t=340
+encdfsi 	大规模资源	c=0 d=0.1 t=309
+encdfsl 	大规模能力	c=0 d=0.1 t=341
+encdggj 	在整理	c=0 d=0.1 t=256
+encdhnj 	在慢	c=0 d=0.1 t=208
+encdiwb 	感觉像是出	c=0 d=0.1 t=150
+encdiwj 	感觉像是	c=0 d=0.1 t=149
+encdiwq 	感觉像	c=0 d=0.1 t=148
+encdnj 	在慢	c=0 d=0.1 t=208
+encdnnj 	在慢慢	c=0 d=0.1 t=209
+encdnnr 	在慢慢丢失	c=0 d=0.1 t=210
+encdnwf 	成会	c=0 d=0.1 t=62
+encdpya 	丰富度	c=0 d=0.1 t=305
+encdrwx 	有的分组	c=0 d=0.1 t=119
+encdunt 	有效性	c=0 d=0.1 t=24
+encdygh 	确认下	c=0 d=0.1 t=124
+enceb 	有了	c=0 d=0.1 t=134
+encebn 	有了	c=0 d=0.1 t=134
+encebwd 	有了伟大	c=0 d=0.1 t=135
+encebwr 	有了伟大的	c=0 d=0.1 t=136
+encedbu 	有故障	c=0 d=0.1 t=171
+encenjp 	用性监牢	c=0 d=0.1 t=241
+encer 	有的	c=0 d=0.1 t=230
+encerq 	有的	c=0 d=0.1 t=230
+encerwx 	有的分组	c=0 d=0.1 t=119
+encetnt 	用性	c=0 d=0.1 t=240
+enceunt 	有效性	c=0 d=0.1 t=24
+enceuq 	有效	c=0 d=0.1 t=23
+encfbj 	地是	c=0 d=0.1 t=358
+encfbjf 	云阿里	c=0 d=0.1 t=14
+encfbjf 	云阿里云	c=0 d=0.1 t=15
+encfbjg 	地是	c=0 d=0.1 t=358
+encfduw 	动态阈值	c=0 d=0.1 t=296
+encffg 	过去一	c=0 d=0.1 t=343
+encffgg 	过去一	c=0 d=0.1 t=343
+encffgw 	过去一段	c=0 d=0.1 t=344
+encfgj 	都不是	c=0 d=0.1 t=144
+encfgjg 	都不是	c=0 d=0.1 t=144
+encfgr 	过来的	c=0 d=0.1 t=131
+encfgrq 	过来的	c=0 d=0.1 t=131
+encfgyj 	起来应该是	c=0 d=0.1 t=168
+encfgyy 	起来应该	c=0 d=0.1 t=167
+encfij 	都不是	c=0 d=0.1 t=144
+encfijg 	都不是	c=0 d=0.1 t=144
+encfj 	地是	c=0 d=0.1 t=358
+encfjg 	地是	c=0 d=0.1 t=358
+encfjrd 	云监控基础	c=0 d=0.1 t=47
+encfjrf 	云监控云	c=0 d=0.1 t=3
+encfjrh 	云监控站点	c=0 d=0.1 t=234
+encfjrk 	云监控中	c=0 d=0.1 t=108
+encfjrp 	云监控	c=0 d=0.1 t=4
+encfjrr 	云监控中的	c=0 d=0.1 t=109
+encfjrr 	云监控的	c=0 d=0.1 t=189
+encfjsu 	场景覆盖	c=0 d=0.1 t=282
+encfnr 	无情的	c=0 d=0.1 t=83
+encfnrq 	无情的	c=0 d=0.1 t=83
+encfnrt 	无情的提升	c=0 d=0.1 t=84
+encfscl 	规模能力	c=0 d=0.1 t=341
+encfsfx 	需要增强	c=0 d=0.1 t=244
+encfsui 	规模资源	c=0 d=0.1 t=309
+encfsur 	规模资源的	c=0 d=0.1 t=310
+encftgi 	都不	c=0 d=0.1 t=143
+encfti 	都不	c=0 d=0.1 t=143
+encfukk 	云产品	c=0 d=0.1 t=236
+encfukr 	云产品监控	c=0 d=0.1 t=237
+encfuks 	云产品指标	c=0 d=0.1 t=19
+encgats 	开箱	c=0 d=0.1 t=379
+encgcbn 	开通也	c=0 d=0.1 t=68
+encgdgg 	正在整理	c=0 d=0.1 t=256
+encgdvw 	现在好像	c=0 d=0.1 t=162
+encgggh 	一下	c=0 d=0.1 t=142
+encggh 	一下	c=0 d=0.1 t=142
+encggo 	一下为	c=0 d=0.1 t=119
+encggot 	一下为什么	c=0 d=0.1 t=120
+encgguq 	一次	c=0 d=0.1 t=375
+encggwd 	一段	c=0 d=0.1 t=344
+encggwh 	一个	c=0 d=0.1 t=134
+encggwh 	整理个	c=0 d=0.1 t=136
+encggyl 	一下为	c=0 d=0.1 t=119
+encggyt 	一下为什么	c=0 d=0.1 t=120
+encggyx 	一下详细	c=0 d=0.1 t=143
+encghd 	正在	c=0 d=0.1 t=255
+encghdh 	正在	c=0 d=0.1 t=255
+encgho 	下为	c=0 d=0.1 t=119
+encghyl 	下为	c=0 d=0.1 t=119
+encgiga 	不开	c=0 d=0.1 t=160
+encgij 	不是	c=0 d=0.1 t=127
+encgijg 	不是	c=0 d=0.1 t=127
+encgiqd 	不然	c=0 d=0.1 t=143
+encgjrr 	不是授权的	c=0 d=0.1 t=129
+encgjrs 	不是授权	c=0 d=0.1 t=128
+encgmrh 	再看	c=0 d=0.1 t=43
+encgmwh 	两个	c=0 d=0.1 t=138
+encgowt 	下为什么	c=0 d=0.1 t=120
+encgqwf 	不然会	c=0 d=0.1 t=144
+encgqwp 	不然会重视	c=0 d=0.1 t=145
+encgrgh 	再看下	c=0 d=0.1 t=44
+encgrgt 	再看下提升	c=0 d=0.1 t=45
+encgrta 	下提升	c=0 d=0.1 t=45
+encgtuj 	不知道是	c=0 d=0.1 t=182
+encgtut 	不知道	c=0 d=0.1 t=181
+encgtve 	开箱即用	c=0 d=0.1 t=380
+encgtvr 	开箱即用的	c=0 d=0.1 t=381
+encguni 	一次性拨测	c=0 d=0.1 t=377
+encgunt 	一次性	c=0 d=0.1 t=376
+encguq 	一次	c=0 d=0.1 t=375
+encgwau 	一个工单	c=0 d=0.1 t=135
+encgwd 	一段	c=0 d=0.1 t=344
+encgwfn 	一个无情	c=0 d=0.1 t=82
+encgwfr 	一个无情的	c=0 d=0.1 t=83
+encgwh 	一个	c=0 d=0.1 t=134
+encgwil 	两个没转	c=0 d=0.1 t=140
+encgwim 	两个没	c=0 d=0.1 t=139
+encgwjr 	一段时间的	c=0 d=0.1 t=346
+encgwju 	一段时间	c=0 d=0.1 t=345
+encgwmp 	事件内容	c=0 d=0.1 t=349
+encgwwt 	下他们怎么	c=0 d=0.1 t=220
+encgwwu 	下他们	c=0 d=0.1 t=219
+encgywt 	下为什么	c=0 d=0.1 t=120
+encgyxl 	下详细	c=0 d=0.1 t=143
+encgyxt 	下详细信息	c=0 d=0.1 t=144
+enchhxg 	上线	c=0 d=0.1 t=244
+enchjth 	旧版	c=0 d=0.1 t=129
+enchunl 	目前已经回	c=0 d=0.1 t=113
+enchunx 	目前已经	c=0 d=0.1 t=112
+enchvhg 	眼睛	c=0 d=0.1 t=104
+enchxb 	上线了	c=0 d=0.1 t=245
+enchxbn 	上线了	c=0 d=0.1 t=245
+enchxbq 	上线了很多	c=0 d=0.1 t=247
+enchxbt 	上线了很	c=0 d=0.1 t=246
+enchxg 	上线	c=0 d=0.1 t=244
+enciclr 	测能力的	c=0 d=0.1 t=369
+enciclt 	测能力	c=0 d=0.1 t=368
+enciclw 	测能力的全	c=0 d=0.1 t=370
+enciga 	不开	c=0 d=0.1 t=160
+encij 	不是	c=0 d=0.1 t=127
+encijg 	不是	c=0 d=0.1 t=127
+encijrs 	不是授权	c=0 d=0.1 t=128
+encilfg 	没转过来	c=0 d=0.1 t=141
+encimlf 	没转	c=0 d=0.1 t=140
+encipfj 	党坤	c=0 d=0.1 t=106
+enciqd 	不然	c=0 d=0.1 t=143
+enciqwf 	不然会	c=0 d=0.1 t=144
+encittg 	流程处理	c=0 d=0.1 t=300
+encituj 	不知道是	c=0 d=0.1 t=182
+encitut 	不知道	c=0 d=0.1 t=181
+enciwxy 	水位统计	c=0 d=0.1 t=285
+enciyr 	测试的	c=0 d=0.1 t=222
+enciyrq 	测试的	c=0 d=0.1 t=222
+enciyry 	测试的就	c=0 d=0.1 t=223
+encjadb 	是基础	c=0 d=0.1 t=200
+encjadn 	是基础性	c=0 d=0.1 t=201
+encjbm 	是出	c=0 d=0.1 t=150
+encjbub 	是出问题了	c=0 d=0.1 t=152
+encjbuj 	是出问题	c=0 d=0.1 t=151
+encjd 	是在	c=0 d=0.1 t=207
+encjdh 	是在	c=0 d=0.1 t=207
+encjdnj 	是在慢	c=0 d=0.1 t=208
+encjdnn 	是在慢慢	c=0 d=0.1 t=209
+encjfbf 	里云阿里云	c=0 d=0.1 t=15
+encjfbj 	里云阿里	c=0 d=0.1 t=14
+encjffc 	里云	c=0 d=0.1 t=13
+encjfjr 	日志监控	c=0 d=0.1 t=360
+encjg 	是一	c=0 d=0.1 t=80
+encjgbm 	是出	c=0 d=0.1 t=150
+encjgd 	是在	c=0 d=0.1 t=207
+encjgdh 	是在	c=0 d=0.1 t=207
+encjgg 	是一	c=0 d=0.1 t=80
+encjggg 	是一	c=0 d=0.1 t=80
+encjggi 	是不	c=0 d=0.1 t=126
+encjgi 	是不	c=0 d=0.1 t=126
+encjgj 	是不是	c=0 d=0.1 t=127
+encjgjg 	是不是	c=0 d=0.1 t=127
+encjgjs 	是不是授权	c=0 d=0.1 t=128
+encjgq 	是我	c=0 d=0.1 t=264
+encjgtr 	是我	c=0 d=0.1 t=264
+encjgvb 	是好	c=0 d=0.1 t=178
+encjgwh 	是一个	c=0 d=0.1 t=81
+encjgwn 	是一个无情	c=0 d=0.1 t=82
+encji 	是不	c=0 d=0.1 t=126
+encjij 	是不是	c=0 d=0.1 t=127
+encjijg 	是不是	c=0 d=0.1 t=127
+encjijs 	是不是授权	c=0 d=0.1 t=128
+encjntd 	是心智	c=0 d=0.1 t=203
+encjq 	是我	c=0 d=0.1 t=264
+encjqr 	是我的	c=0 d=0.1 t=265
+encjqrq 	是我的	c=0 d=0.1 t=265
+encjqrq 	是我的我	c=0 d=0.1 t=266
+encjqrr 	是我的我的	c=0 d=0.1 t=267
+encjqrt 	是我的我	c=0 d=0.1 t=266
+encjrag 	监控基于	c=0 d=0.1 t=259
+encjrcl 	监控能力	c=0 d=0.1 t=387
+encjrfc 	监控云	c=0 d=0.1 t=3
+encjrfr 	监控云监控	c=0 d=0.1 t=5
+encjrh 	最近上	c=0 d=0.1 t=243
+encjrhb 	最近上线了	c=0 d=0.1 t=245
+encjrhh 	最近上	c=0 d=0.1 t=243
+encjrhx 	最近上线	c=0 d=0.1 t=244
+encjror 	监控数据	c=0 d=0.1 t=40
+encjrsc 	是授权	c=0 d=0.1 t=128
+encjrsr 	是授权的	c=0 d=0.1 t=129
+encjsjs 	昱杰昱杰	c=0 d=0.1 t=9
+encjsju 	昱杰昱	c=0 d=0.1 t=8
+encjtr 	是我	c=0 d=0.1 t=264
+encjtr 	是我的	c=0 d=0.1 t=265
+encjtrq 	是我的	c=0 d=0.1 t=265
+encjtrq 	是我的我	c=0 d=0.1 t=266
+encjtrr 	是我的我的	c=0 d=0.1 t=267
+encjtrt 	是我的我	c=0 d=0.1 t=266
+encjttc 	是怎么	c=0 d=0.1 t=183
+encjtti 	是怎么检测	c=0 d=0.1 t=184
+encjur 	时间的	c=0 d=0.1 t=346
+encjurq 	时间的	c=0 d=0.1 t=346
+encjurx 	时间的总结	c=0 d=0.1 t=347
+encjuso 	昱杰	c=0 d=0.1 t=9
+encjvb 	是好	c=0 d=0.1 t=178
+encjvr 	是好的	c=0 d=0.1 t=179
+encjvrq 	是好的	c=0 d=0.1 t=179
+encjwlf 	是集团	c=0 d=0.1 t=169
+encjws 	时候要	c=0 d=0.1 t=239
+encjwsv 	时候要	c=0 d=0.1 t=239
+encjwtc 	是什么	c=0 d=0.1 t=198
+enckgdx 	吴龙	c=0 d=0.1 t=125
+enckhr 	中的	c=0 d=0.1 t=109
+enckhrq 	中的	c=0 d=0.1 t=109
+enckhwu 	中位	c=0 d=0.1 t=99
+enckmkg 	跨账号	c=0 d=0.1 t=255
+enckmkg 	跨账号管理	c=0 d=0.1 t=256
+enckr 	中的	c=0 d=0.1 t=109
+enckrq 	中的	c=0 d=0.1 t=109
+enckrrs 	中的指标	c=0 d=0.1 t=110
+enckwor 	中位数据	c=0 d=0.1 t=100
+enckws 	只要	c=0 d=0.1 t=215
+enckwsv 	只要	c=0 d=0.1 t=215
+enckwu 	中位	c=0 d=0.1 t=99
+enclffp 	转过	c=0 d=0.1 t=129
+enclfgo 	转过来	c=0 d=0.1 t=141
+enclkh 	加上	c=0 d=0.1 t=72
+enclkhh 	加上	c=0 d=0.1 t=72
+enclkiu 	回滚	c=0 d=0.1 t=114
+encllbh 	逻辑也加上	c=0 d=0.1 t=72
+encllbl 	逻辑也加	c=0 d=0.1 t=71
+encllbn 	逻辑也	c=0 d=0.1 t=70
+encltj 	力是	c=0 d=0.1 t=196
+encltjg 	力是	c=0 d=0.1 t=196
+enclynf 	默认展示	c=0 d=0.1 t=108
+enclynr 	默认展示所	c=0 d=0.1 t=109
+enclyrr 	默认接入的	c=0 d=0.1 t=234
+enclyrt 	默认接入	c=0 d=0.1 t=233
+encmktg 	账号管理	c=0 d=0.1 t=256
+encmmrg 	内网打不	c=0 d=0.1 t=159
+encmmrg 	内网打不开	c=0 d=0.1 t=160
+encmmri 	内网打不	c=0 d=0.1 t=159
+encmmrs 	内网打	c=0 d=0.1 t=158
+encmpfi 	内容过滤	c=0 d=0.1 t=350
+encmqrs 	网打	c=0 d=0.1 t=158
+encmrgg 	网打不开	c=0 d=0.1 t=160
+encmrgi 	网打不	c=0 d=0.1 t=159
+encmri 	网打不	c=0 d=0.1 t=159
+encmrig 	网打不开	c=0 d=0.1 t=160
+encmwmq 	内网	c=0 d=0.1 t=157
+encnfrd 	展示所有	c=0 d=0.1 t=110
+encnfre 	展示所有	c=0 d=0.1 t=110
+encnfrn 	展示所	c=0 d=0.1 t=109
+encnfrr 	展示所有的	c=0 d=0.1 t=111
+encnjnj 	慢慢	c=0 d=0.1 t=209
+encnjpr 	性监牢	c=0 d=0.1 t=241
+encnntr 	慢慢丢失	c=0 d=0.1 t=210
+encnqrt 	性包括	c=0 d=0.1 t=228
+encnrim 	性拨测	c=0 d=0.1 t=377
+encntb 	恢复了	c=0 d=0.1 t=164
+encntbn 	恢复了	c=0 d=0.1 t=164
+encntgh 	发下	c=0 d=0.1 t=146
+encntrw 	慢丢失	c=0 d=0.1 t=210
+encntxe 	已升级	c=0 d=0.1 t=331
+encnuks 	情况只要	c=0 d=0.1 t=215
+encnukw 	情况只	c=0 d=0.1 t=214
+encnxli 	已经回滚	c=0 d=0.1 t=114
+encnxlk 	已经回	c=0 d=0.1 t=113
+encordp 	数据丰富	c=0 d=0.1 t=304
+encordy 	数据丰富度	c=0 d=0.1 t=305
+encorpj 	数据实时	c=0 d=0.1 t=265
+encorpn 	数据实时性	c=0 d=0.1 t=266
+encorrj 	数据质量	c=0 d=0.1 t=41
+encorrt 	数据接入	c=0 d=0.1 t=336
+encorun 	数据准备性	c=0 d=0.1 t=248
+encorut 	数据准备	c=0 d=0.1 t=247
+encoryk 	数据库产品	c=0 d=0.1 t=30
+encoryl 	数据库	c=0 d=0.1 t=29
+encotjr 	业务监控	c=0 d=0.1 t=355
+encowtc 	为什么	c=0 d=0.1 t=120
+encowtu 	为什么安装	c=0 d=0.1 t=121
+encpj 	这是	c=0 d=0.1 t=79
+encpjdd 	实时大	c=0 d=0.1 t=339
+encpjds 	实时大规模	c=0 d=0.1 t=340
+encpjg 	这是	c=0 d=0.1 t=79
+encpjg 	这是一	c=0 d=0.1 t=80
+encpjgg 	这是一	c=0 d=0.1 t=80
+encpjgw 	这是一个	c=0 d=0.1 t=81
+encpjnt 	实时性	c=0 d=0.1 t=266
+encpkxc 	窗口给叉	c=0 d=0.1 t=132
+encpkxr 	窗口给叉掉	c=0 d=0.1 t=133
+encpkxw 	窗口给	c=0 d=0.1 t=131
+encptk 	这种	c=0 d=0.1 t=212
+encptnk 	这种情况只	c=0 d=0.1 t=214
+encptnu 	这种情况	c=0 d=0.1 t=213
+encpurm 	安装失败	c=0 d=0.1 t=122
+encpwh 	这个	c=0 d=0.1 t=173
+encpwpy 	这个客户	c=0 d=0.1 t=174
+encpyrq 	客户反馈	c=0 d=0.1 t=175
+encpyts 	补课短板	c=0 d=0.1 t=94
+encpyts 	补齐短板	c=0 d=0.1 t=96
+encqdwf 	然会	c=0 d=0.1 t=144
+encqhr 	外的	c=0 d=0.1 t=115
+encqhrq 	外的	c=0 d=0.1 t=115
+encqr 	我的	c=0 d=0.1 t=267
+encqrq 	我的	c=0 d=0.1 t=267
+encqrq 	我的我	c=0 d=0.1 t=266
+encqrqr 	我的我的	c=0 d=0.1 t=267
+encqrrd 	外的所有	c=0 d=0.1 t=117
+encqrre 	外的所有	c=0 d=0.1 t=117
+encqrrn 	外的所	c=0 d=0.1 t=116
+encqrrr 	外的所有的	c=0 d=0.1 t=118
+encqrsf 	多指标	c=0 d=0.1 t=294
+encqrtr 	我的我	c=0 d=0.1 t=266
+encqrtr 	我的我的	c=0 d=0.1 t=267
+encqwjh 	我们最近上	c=0 d=0.1 t=243
+encqwjr 	我们最近	c=0 d=0.1 t=242
+encqwog 	多企业	c=0 d=0.1 t=248
+encqwox 	多企业级	c=0 d=0.1 t=249
+encqwtp 	然会重视	c=0 d=0.1 t=145
+encqwtr 	然会重视的	c=0 d=0.1 t=146
+encqwu 	我们	c=0 d=0.1 t=241
+encrab 	报警了	c=0 d=0.1 t=320
+encrabn 	报警了	c=0 d=0.1 t=320
+encracl 	报警能力	c=0 d=0.1 t=292
+encrdr 	所有的	c=0 d=0.1 t=118
+encrdrq 	所有的	c=0 d=0.1 t=118
+encrdrx 	所有的分组	c=0 d=0.1 t=119
+encrer 	所有的	c=0 d=0.1 t=118
+encrerq 	所有的	c=0 d=0.1 t=118
+encrerx 	所有的分组	c=0 d=0.1 t=119
+encrfc 	的云	c=0 d=0.1 t=235
+encrfgo 	看起来	c=0 d=0.1 t=166
+encrfgy 	看起来应该	c=0 d=0.1 t=167
+encrfuk 	的云产品	c=0 d=0.1 t=236
+encrgga 	打不开	c=0 d=0.1 t=160
+encrgrt 	看下提升	c=0 d=0.1 t=45
+encrhb 	掉了	c=0 d=0.1 t=134
+encrhbn 	掉了	c=0 d=0.1 t=134
+encrhgh 	看下	c=0 d=0.1 t=44
+encriah 	拨测工具	c=0 d=0.1 t=383
+encricl 	拨测能力	c=0 d=0.1 t=368
+encricr 	拨测能力的	c=0 d=0.1 t=369
+encriga 	打不开	c=0 d=0.1 t=160
+encrip 	的党	c=0 d=0.1 t=137
+encrktc 	的口径	c=0 d=0.1 t=127
+encrnde 	所有	c=0 d=0.1 t=117
+encrne 	所有	c=0 d=0.1 t=117
+encrnim 	拨测	c=0 d=0.1 t=367
+encrpk 	的窗口	c=0 d=0.1 t=130
+encrpkc 	的窗口给叉	c=0 d=0.1 t=132
+encrpkk 	的窗口	c=0 d=0.1 t=130
+encrpkx 	的窗口给	c=0 d=0.1 t=131
+encrq 	的我	c=0 d=0.1 t=266
+encrqfc 	的云	c=0 d=0.1 t=235
+encrqip 	的党	c=0 d=0.1 t=137
+encrqq 	的我	c=0 d=0.1 t=266
+encrqr 	的我的	c=0 d=0.1 t=267
+encrqrn 	的所	c=0 d=0.1 t=116
+encrqrq 	的我的	c=0 d=0.1 t=267
+encrqtr 	的我	c=0 d=0.1 t=266
+encrquh 	反馈站点	c=0 d=0.1 t=176
+encrquj 	反馈站点是	c=0 d=0.1 t=177
+encrqwg 	的全	c=0 d=0.1 t=370
+encrqxl 	的细	c=0 d=0.1 t=311
+encrqyi 	的就	c=0 d=0.1 t=223
+encrrb 	接手了	c=0 d=0.1 t=322
+encrrbn 	接手了	c=0 d=0.1 t=322
+encrrde 	的所有	c=0 d=0.1 t=117
+encrrdr 	的所有的	c=0 d=0.1 t=118
+encrre 	的所有	c=0 d=0.1 t=117
+encrrer 	的所有的	c=0 d=0.1 t=118
+encrrih 	的拨测工具	c=0 d=0.1 t=383
+encrrim 	的拨测	c=0 d=0.1 t=382
+encrrn 	的所	c=0 d=0.1 t=116
+encrrsf 	的指标	c=0 d=0.1 t=110
+encrrta 	的提升	c=0 d=0.1 t=84
+encrsgi 	打不	c=0 d=0.1 t=159
+encrsi 	打不	c=0 d=0.1 t=159
+encrsnw 	的核心部分	c=0 d=0.1 t=191
+encrsny 	的核心	c=0 d=0.1 t=190
+encrspj 	指标实时	c=0 d=0.1 t=20
+encrspn 	指标实时性	c=0 d=0.1 t=21
+encrsr 	授权的	c=0 d=0.1 t=129
+encrsrk 	授权的窗口	c=0 d=0.1 t=130
+encrsrq 	授权的	c=0 d=0.1 t=129
+encrtfr 	提升云监控	c=0 d=0.1 t=85
+encrtnb 	接入导出	c=0 d=0.1 t=337
+encrtr 	接入的	c=0 d=0.1 t=234
+encrtr 	的我	c=0 d=0.1 t=266
+encrtr 	的我的	c=0 d=0.1 t=267
+encrtrf 	接入的云	c=0 d=0.1 t=235
+encrtrq 	接入的	c=0 d=0.1 t=234
+encrtrq 	的我的	c=0 d=0.1 t=267
+encrts 	提升要	c=0 d=0.1 t=57
+encrtsh 	提升要加上	c=0 d=0.1 t=59
+encrtsl 	提升要加	c=0 d=0.1 t=58
+encrtsv 	提升要	c=0 d=0.1 t=57
+encrtti 	提升秒	c=0 d=0.1 t=34
+encrttx 	提升秒级	c=0 d=0.1 t=35
+encruxf 	的总结	c=0 d=0.1 t=347
+encrwg 	提供一	c=0 d=0.1 t=141
+encrwg 	的全	c=0 d=0.1 t=370
+encrwgg 	提供一	c=0 d=0.1 t=141
+encrwgg 	提供一下	c=0 d=0.1 t=142
+encrwsg 	的全栈	c=0 d=0.1 t=371
+encrwsi 	的全栈拨测	c=0 d=0.1 t=372
+encrwxe 	的分组	c=0 d=0.1 t=119
+encrxl 	的细	c=0 d=0.1 t=311
+encrxoy 	的细粒度	c=0 d=0.1 t=312
+encryi 	的就	c=0 d=0.1 t=223
+encrytb 	的就知道了	c=0 d=0.1 t=225
+encrytu 	的就知道	c=0 d=0.1 t=224
+encsdwf 	贾成会	c=0 d=0.1 t=62
+encsenp 	可用性监牢	c=0 d=0.1 t=241
+encsent 	可用性	c=0 d=0.1 t=240
+encsfj 	本地是	c=0 d=0.1 t=358
+encsfjg 	本地是	c=0 d=0.1 t=358
+encsgf 	本地	c=0 d=0.1 t=357
+encsgfb 	本地	c=0 d=0.1 t=357
+encsggh 	查一下	c=0 d=0.1 t=118
+encsggo 	查一下为	c=0 d=0.1 t=119
+encsggy 	查一下为	c=0 d=0.1 t=119
+encsir 	检测的	c=0 d=0.1 t=185
+encsirq 	检测的	c=0 d=0.1 t=185
+encsjg 	查一	c=0 d=0.1 t=117
+encsjgg 	查一	c=0 d=0.1 t=117
+encsjso 	杰昱杰	c=0 d=0.1 t=9
+encskc 	可以	c=0 d=0.1 t=227
+encsket 	可用	c=0 d=0.1 t=239
+encskny 	可以	c=0 d=0.1 t=227
+encslh 	要加上	c=0 d=0.1 t=59
+encslhh 	要加上	c=0 d=0.1 t=59
+encslk 	要加	c=0 d=0.1 t=58
+encsmdn 	贾成	c=0 d=0.1 t=61
+encsnul 	核心部分力	c=0 d=0.1 t=192
+encsnuw 	核心部分	c=0 d=0.1 t=191
+encsoju 	杰昱	c=0 d=0.1 t=8
+encsrc 	要把	c=0 d=0.1 t=65
+encsrih 	栈拨测工具	c=0 d=0.1 t=373
+encsrim 	栈拨测	c=0 d=0.1 t=372
+encstgj 	权管理	c=0 d=0.1 t=252
+encstgl 	权管理能力	c=0 d=0.1 t=253
+encsvlk 	要加	c=0 d=0.1 t=58
+encsvrc 	要把	c=0 d=0.1 t=65
+enctcwl 	智能化能力	c=0 d=0.1 t=290
+enctcwx 	智能化	c=0 d=0.1 t=289
+enctdsr 	短板	c=0 d=0.1 t=54
+enctgcl 	处理能力	c=0 d=0.1 t=301
+enctgcl 	管理能力	c=0 d=0.1 t=315
+enctgk 	处理中	c=0 d=0.1 t=324
+enctgkh 	处理中	c=0 d=0.1 t=324
+enctgpx 	处理完毕	c=0 d=0.1 t=326
+enctixe 	秒级	c=0 d=0.1 t=390
+enctnuk 	种情况	c=0 d=0.1 t=213
+enctnuk 	种情况只	c=0 d=0.1 t=214
+enctnus 	种情况只要	c=0 d=0.1 t=215
+enctpr 	重视的	c=0 d=0.1 t=146
+enctprq 	重视的	c=0 d=0.1 t=146
+enctqwo 	很多企业	c=0 d=0.1 t=248
+enctqwx 	很多企业级	c=0 d=0.1 t=249
+enctrq 	我的我	c=0 d=0.1 t=266
+enctrqr 	我的我的	c=0 d=0.1 t=267
+enctrr 	我的	c=0 d=0.1 t=267
+enctrrq 	我的	c=0 d=0.1 t=267
+enctrtr 	我的我	c=0 d=0.1 t=266
+enctrtr 	我的我的	c=0 d=0.1 t=267
+enctrwu 	我们	c=0 d=0.1 t=241
+encttir 	怎么测试的	c=0 d=0.1 t=222
+encttiy 	怎么测试	c=0 d=0.1 t=221
+encttsi 	怎么检测	c=0 d=0.1 t=184
+encttsr 	怎么检测的	c=0 d=0.1 t=185
+enctub 	知道了	c=0 d=0.1 t=225
+enctubn 	知道了	c=0 d=0.1 t=225
+enctuj 	知道是	c=0 d=0.1 t=182
+enctujg 	知道是	c=0 d=0.1 t=182
+enctujt 	知道是怎么	c=0 d=0.1 t=183
+enctver 	箱即用的	c=0 d=0.1 t=381
+enctvet 	箱即用	c=0 d=0.1 t=380
+enctvqq 	很多	c=0 d=0.1 t=247
+enctwcw 	稆体验	c=0 d=0.1 t=90
+enctwjr 	我们最近	c=0 d=0.1 t=242
+enctxb 	升级了	c=0 d=0.1 t=328
+enctxbn 	升级了	c=0 d=0.1 t=328
+enctxrs 	秒级指标	c=0 d=0.1 t=36
+enctxxg 	得组织一	c=0 d=0.1 t=122
+enctxxk 	得组织	c=0 d=0.1 t=121
+encugww 	问下他们	c=0 d=0.1 t=219
+encuhj 	站点是	c=0 d=0.1 t=177
+encuhjg 	站点是	c=0 d=0.1 t=177
+encuhjr 	站点是好的	c=0 d=0.1 t=179
+encuhjr 	站点监控	c=0 d=0.1 t=258
+encuhjv 	站点是好	c=0 d=0.1 t=178
+encuihv 	资源目录	c=0 d=0.1 t=318
+encuiiw 	资源水位	c=0 d=0.1 t=284
+encuir 	资源的	c=0 d=0.1 t=310
+encuirq 	资源的	c=0 d=0.1 t=310
+encuirx 	资源的细	c=0 d=0.1 t=311
+encuixe 	资源组	c=0 d=0.1 t=261
+encujb 	问题了	c=0 d=0.1 t=152
+encujbn 	问题了	c=0 d=0.1 t=152
+encukgh 	问下	c=0 d=0.1 t=218
+encukjr 	产品监控	c=0 d=0.1 t=237
+encukrs 	产品指标	c=0 d=0.1 t=19
+encukrt 	产品提升	c=0 d=0.1 t=33
+encukrt 	产品提升秒	c=0 d=0.1 t=34
+encukwc 	产品体验	c=0 d=0.1 t=49
+encunri 	次性拨测	c=0 d=0.1 t=377
+encuqlj 	竞争力是	c=0 d=0.1 t=196
+encuqlt 	竞争力	c=0 d=0.1 t=195
+encuqnt 	效性	c=0 d=0.1 t=24
+encuqnt 	次性	c=0 d=0.1 t=376
+encutk 	产稆	c=0 d=0.1 t=89
+encutnt 	准备性	c=0 d=0.1 t=248
+encutsg 	新版本	c=0 d=0.1 t=121
+encuttk 	产稆	c=0 d=0.1 t=89
+encutwc 	产稆体验	c=0 d=0.1 t=90
+encuwlj 	部分力是	c=0 d=0.1 t=193
+encuwlt 	部分力	c=0 d=0.1 t=192
+encuwwr 	并优化监控	c=0 d=0.1 t=39
+encuwwx 	并优化	c=0 d=0.1 t=38
+encvbr 	好的	c=0 d=0.1 t=259
+encvbrq 	好的	c=0 d=0.1 t=259
+encver 	即用的	c=0 d=0.1 t=381
+encveri 	即用的拨测	c=0 d=0.1 t=382
+encverq 	即用的	c=0 d=0.1 t=381
+encvgh 	发下	c=0 d=0.1 t=146
+encvjj 	如果是	c=0 d=0.1 t=263
+encvjjg 	如果是	c=0 d=0.1 t=263
+encvjjq 	如果是我	c=0 d=0.1 t=264
+encvjjr 	如果是我的	c=0 d=0.1 t=265
+encvjjt 	如果是我	c=0 d=0.1 t=264
+encvjp 	如果这	c=0 d=0.1 t=78
+encvjpg 	如果这是一	c=0 d=0.1 t=80
+encvjpj 	如果这是	c=0 d=0.1 t=79
+encvjvj 	如果如果	c=0 d=0.1 t=77
+encvjvp 	如果如果这	c=0 d=0.1 t=78
+encvjvy 	如果如果这	c=0 d=0.1 t=78
+encvjyg 	如果这是一	c=0 d=0.1 t=80
+encvjyj 	如果这是	c=0 d=0.1 t=79
+encvjyp 	如果这	c=0 d=0.1 t=78
+encvkvj 	好吧如果	c=0 d=0.1 t=262
+encvkvj 	好吧如果是	c=0 d=0.1 t=263
+encvwnb 	好像恢复了	c=0 d=0.1 t=164
+encvwnt 	好像恢复	c=0 d=0.1 t=163
+encwauj 	个工单	c=0 d=0.1 t=135
+encwbnx 	你也屁	c=0 d=0.1 t=140
+encwclt 	化能力	c=0 d=0.1 t=290
+encwdbr 	个故障的	c=0 d=0.1 t=126
+encwdbu 	个故障	c=0 d=0.1 t=125
+encwdr 	伟大的	c=0 d=0.1 t=136
+encwdri 	伟大的党	c=0 d=0.1 t=137
+encwdrq 	伟大的	c=0 d=0.1 t=136
+encwfju 	全场景覆盖	c=0 d=0.1 t=282
+encwfjy 	全场景	c=0 d=0.1 t=281
+encwfng 	个无情	c=0 d=0.1 t=82
+encwfnr 	个无情的	c=0 d=0.1 t=83
+encwgsg 	全栈	c=0 d=0.1 t=371
+encwhim 	个没	c=0 d=0.1 t=139
+encwilf 	个没转	c=0 d=0.1 t=140
+encwilg 	个没转过来	c=0 d=0.1 t=141
+encwjbj 	像是出问题	c=0 d=0.1 t=151
+encwjbm 	像是出	c=0 d=0.1 t=150
+encwjd 	但是在	c=0 d=0.1 t=207
+encwjdh 	但是在	c=0 d=0.1 t=207
+encwjdn 	但是在慢	c=0 d=0.1 t=208
+encwjdn 	但是在慢慢	c=0 d=0.1 t=209
+encwjj 	但是	c=0 d=0.1 t=206
+encwjjg 	但是	c=0 d=0.1 t=206
+encwjrh 	们最近上	c=0 d=0.1 t=243
+encwjrp 	们最近	c=0 d=0.1 t=242
+encwjrx 	们最近上线	c=0 d=0.1 t=244
+encwjuj 	段时间	c=0 d=0.1 t=345
+encwjur 	段时间的	c=0 d=0.1 t=346
+encworn 	位数据	c=0 d=0.1 t=100
+encwoxe 	企业级	c=0 d=0.1 t=249
+encwoxl 	企业级能力	c=0 d=0.1 t=269
+encwpyn 	个客户	c=0 d=0.1 t=174
+encwpyq 	个客户反馈	c=0 d=0.1 t=175
+encwqbn 	你也	c=0 d=0.1 t=139
+encwqj 	像是	c=0 d=0.1 t=149
+encwqjg 	像是	c=0 d=0.1 t=149
+encwsri 	全栈拨测	c=0 d=0.1 t=372
+encwstg 	分权管理	c=0 d=0.1 t=252
+encwtjs 	什么时候要	c=0 d=0.1 t=239
+encwtjw 	什么时候	c=0 d=0.1 t=238
+encwtpr 	会重视的	c=0 d=0.1 t=146
+encwtpu 	什么安装	c=0 d=0.1 t=121
+encwtpy 	会重视	c=0 d=0.1 t=145
+encwukk 	全产品	c=0 d=0.1 t=32
+encwukt 	全产品提升	c=0 d=0.1 t=33
+encwvsc 	分权	c=0 d=0.1 t=251
+encwwfc 	优化云	c=0 d=0.1 t=17
+encwwfk 	优化云产品	c=0 d=0.1 t=18
+encwwjr 	优化监控	c=0 d=0.1 t=39
+encwwtt 	他们怎么	c=0 d=0.1 t=220
+encxahv 	红眼	c=0 d=0.1 t=103
+encxbtq 	线了很多	c=0 d=0.1 t=247
+encxbtv 	线了很	c=0 d=0.1 t=246
+encxclt 	级能力	c=0 d=0.1 t=269
+encxcrb 	给叉掉了	c=0 d=0.1 t=134
+encxcrh 	给叉掉	c=0 d=0.1 t=133
+encxfet 	级赤脚医生	c=0 d=0.1 t=250
+encxgb 	线了	c=0 d=0.1 t=245
+encxgbn 	线了	c=0 d=0.1 t=245
+encxhhg 	红眼睛	c=0 d=0.1 t=104
+encxoya 	细粒度	c=0 d=0.1 t=312
+encxrsf 	级指标	c=0 d=0.1 t=36
+encxwcy 	给叉	c=0 d=0.1 t=132
+encxxg 	组织一	c=0 d=0.1 t=122
+encxxgg 	组织一	c=0 d=0.1 t=122
+encxyrg 	统计报表	c=0 d=0.1 t=286
+encyenf 	应用层	c=0 d=0.1 t=275
+encyewx 	应用分组	c=0 d=0.1 t=230
+encygwh 	就一个	c=0 d=0.1 t=134
+encygwu 	就一个工单	c=0 d=0.1 t=135
+encyig 	就一	c=0 d=0.1 t=133
+encyigg 	就一	c=0 d=0.1 t=133
+encyjg 	这是一	c=0 d=0.1 t=80
+encyjgg 	这是一	c=0 d=0.1 t=80
+encyjgw 	这是一个	c=0 d=0.1 t=81
+encypj 	这是	c=0 d=0.1 t=79
+encypjg 	这是	c=0 d=0.1 t=79
+encyptk 	这种	c=0 d=0.1 t=212
+encypwh 	这个	c=0 d=0.1 t=173
+encytnk 	这种情况只	c=0 d=0.1 t=214
+encytnu 	这种情况	c=0 d=0.1 t=213
+encytub 	就知道了	c=0 d=0.1 t=225
+encytut 	就知道	c=0 d=0.1 t=224
+encyukk 	库产品	c=0 d=0.1 t=30
+encywpy 	这个客户	c=0 d=0.1 t=174
+encywtc 	为什么	c=0 d=0.1 t=120
+encywtu 	为什么安装	c=0 d=0.1 t=121
+encyxwt 	详细信息	c=0 d=0.1 t=144
+encyyj 	应该是	c=0 d=0.1 t=168
+encyyjg 	应该是	c=0 d=0.1 t=168
+encyyjl 	应该是集团	c=0 d=0.1 t=169
